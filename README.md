@@ -9,6 +9,10 @@
 
 <h1 align="center"><b>😈👻😇"GHOST" THE MOST POWERFUL WHATSAPP BOT 😇👻😈</b></h1>
 <div align="center">
+  
+  [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manishkumar1601/MsJessica)
 
   <img src="https://telegra.ph/file/bc8b55b77fa9c1923ef48.jpg" width="200" height="230">
 
